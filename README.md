@@ -33,3 +33,14 @@ Additional dependencies
 Run notebook on any supported environment such as Jupyter or Google Colab
 
 Make sure the drive is appropriately mounted and the data files are in under 'Covid-19 Updates' folder in your drive.
+
+## Screenshots
+![image](https://github.com/samraat-d/covid19-predictor/assets/156634111/ef4f4bda-d55b-40af-9721-498b47cb988f)
+
+![image](https://github.com/samraat-d/covid19-predictor/assets/156634111/83542224-8367-4343-aef9-0287ba83f78f)
+
+![image](https://github.com/samraat-d/covid19-predictor/assets/156634111/017fe54d-c51f-4878-a4cf-9b52ce0faa5a)
+
+![image](https://github.com/samraat-d/covid19-predictor/assets/156634111/13c0e11f-1c25-4e7c-9290-90a0afa8b28b)
+
+![image](https://github.com/samraat-d/covid19-predictor/assets/156634111/2ead56aa-1c79-47a5-b1fd-2ca4ad45c603)
